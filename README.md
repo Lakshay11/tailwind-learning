@@ -1,7 +1,7 @@
 
-# Project Title
+# Exploring Tailwind
 
-A brief description of what this project does and who it's for
+A Boiler plate to play and learn more about Tailwind CSS
 
 
 ## Tech Stack
